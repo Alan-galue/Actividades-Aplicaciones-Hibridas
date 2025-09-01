@@ -14,5 +14,13 @@
     "chalk": "^4.1.2",
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-galue/Actividades-Aplicaciones-Hibridas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alan-galue/Actividades-Aplicaciones-Hibridas/issues"
+  },
+  "homepage": "https://github.com/Alan-galue/Actividades-Aplicaciones-Hibridas#readme"
 }
