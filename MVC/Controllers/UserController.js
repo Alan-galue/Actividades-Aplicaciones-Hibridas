@@ -8,3 +8,12 @@ await Usuario.save()
 
 };
 
+const listarUsers = async (request, response) => {
+    const usuarios = await User.find();
+    response.json(usuarios);
+    
+}
+
+module.exports = {NewUser, listarUsers};
+
+
